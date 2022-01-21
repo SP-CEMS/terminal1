@@ -1,0 +1,8 @@
+Model Information:
+* title:	Container Terminal
+* source:	https://sketchfab.com/3d-models/container-terminal-2b06c73833a64569887cdcfa405a9b6b
+* author:	peter93 (https://sketchfab.com/peter93)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
